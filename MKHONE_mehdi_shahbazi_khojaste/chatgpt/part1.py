@@ -87,3 +87,10 @@ print(df)
 print(df.shape)
 print(df.ndim)
 print(df.dtype)
+
+
+
+
+
+
+
