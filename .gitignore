@@ -5,6 +5,9 @@ build/
 dist/
 wheels/
 *.egg-info
+mkhone_keivan_mahoodi
+MKHONE_mehdi_shahbazi_khojaste
+youtube
 
 # Virtual environments
 .venv
